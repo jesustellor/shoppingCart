@@ -21,22 +21,22 @@ const products = [
     price: 5,
     quantity: 0,
     productId: 3477,
-    // we go up one folder using .. where images is an find cherry.jpg
-    image: "../images/cherry.jpg",
+    // we go up one folder using .. where images is and find cherry.jpg
+    image: "images/cherry.jpg",
   },
   {
     name: "orange",
     price: 5,
     quantity: 0,
     productId: 3478,
-    image: "../images/orange.jpg",
+    image: "images/orange.jpg",
   },
   {
     name: "strawberry",
     price: 5,
     quantity: 0,
     productId: 3479,
-    image: "../images/strawberry.jpg",
+    image: "images/strawberry.jpg",
   },
 ];
 
